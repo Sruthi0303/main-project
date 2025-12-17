@@ -1,4 +1,4 @@
-# main-project
+# College Activity Management System
 
 **Description:**
 The SITAMS Activity Management System is a role-based web application developed to streamline and digitize event management in academic institutions. It provides secure access for various users, including Principals, Deans, Head of Departments (HODs), and Faculties, enabling them to manage academic events efficiently. The system replaces traditional manual event handling methods with a centralized digital platform, ensuring enhanced coordination, transparency, and accuracy in maintaining institutional records.
